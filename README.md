@@ -6,7 +6,7 @@
 
 Esta es una aplicación de lista de tareas simple desarrollada con React y TypeScript. Permite a los usuarios agregar, editar, marcar como completadas y eliminar tareas. También ofrece opciones para filtrar las tareas por estado (activas, completadas o todas) y una función para eliminar todas las tareas completadas.
 
-## Inspiración
+## 💪 Inspiración
 
 Gran parte de este proyecto fue inspirado por el video tutorial de Doni Hernandez en YouTube. Puedes encontrar el video original aquí: [Todo List with React - Doni Hernandez](https://www.youtube.com/watch?v=8GFmoynezyA).
 
@@ -29,13 +29,13 @@ git clone https://github.com/YeiserDeveloper/TodoList-app
 
 2. Navega al directorio del proyecto:
 
-```sh
+```bash
 cd todoList-app
 ```
 
 3. Instala las dependencias:
 
-```sh
+```bash
 npm install
 ```
 
@@ -43,17 +43,16 @@ npm install
 
 1. Inicia la aplicación:
 
-```sh
+```bash
 npm run dev
 ```
 
-
 2. Abre tu navegador web y visita [http://localhost:3000](http://localhost:3000) para ver la aplicación.
 
-## Contribuciones
+## 👥 Contribuciones
 
 Si deseas contribuir a este proyecto, ¡serán bienvenidas las solicitudes de extracción! Por favor, asegúrate de seguir las pautas de [contribución](CONTRIBUTING.md) y los estándares de código.
 
-## Licencia
+## 📃 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles. 
