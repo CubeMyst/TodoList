@@ -1,6 +1,6 @@
 # Todo List App
 
-![Todo List Screenshot](todo-list-screenshot.png)
+![Todo List Screenshot](todoList-screenshot.png)
 
 ## Descripción
 
@@ -18,10 +18,6 @@ Gran parte de este proyecto fue inspirado por el video tutorial de Doni Hernande
 - Eliminar tareas individualmente.
 - Filtrar tareas por estado: todas, activas o completadas.
 - Eliminar todas las tareas completadas en un solo clic.
-
-## Captura de pantalla
-
-![Todo List Screenshot](todo-list-screenshot.png)
 
 ## Instalación
 
