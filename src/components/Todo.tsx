@@ -77,7 +77,7 @@ export default function Todo({
             onChange={handleChange}
           />
         ) : (
-          <p className={`pl-4 ${completed && "opacity-50"}`}>{title}</p>
+          <p className={`pl-4 ${completed ? "opacity-50": ''}`}>{title}</p>
         )}
       </div>
 

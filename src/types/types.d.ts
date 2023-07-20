@@ -8,7 +8,7 @@ export interface TodoTypes {
 }
 
 export interface TodoProps {
-  todo: Todo;
+  todo: TodoTypes;
   handleSetComplete: (id: string) => void;
   handleDelete: (id: string) => void;
 }
