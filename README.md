@@ -19,7 +19,7 @@ Gran parte de este proyecto fue inspirado por el video tutorial de Doni Hernande
 - Filtrar tareas por estado: todas, activas o completadas.
 - Eliminar todas las tareas completadas en un solo clic.
 
-## Instalación
+## 🧰 Instalación
 
 1. Clona este repositorio en tu máquina local:
 
@@ -39,7 +39,7 @@ cd todoList-app
 npm install
 ```
 
-## Uso
+## 💻 Uso
 
 1. Inicia la aplicación:
 
