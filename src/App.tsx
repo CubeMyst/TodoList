@@ -71,7 +71,7 @@ export default function App() {
     }
   }, [activeFilter, todos]);
 
-  const [click, setClick] = useState<Boolean>(false);
+  const [click, setClick] = useState<boolean>(false);
 
   return (
     <main className="bg-gray-900 min-h-screen font-sans text-gray-100 flex items-center justify-center py-20 px-5">
