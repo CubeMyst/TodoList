@@ -1,6 +1,6 @@
 # Todo List App
 
-![Todo List Screenshot](todoList-screenshot.png)
+![Todo List Screenshot](./screenshot.png)
 
 ## Descripción
 
@@ -55,4 +55,4 @@ Si deseas contribuir a este proyecto, ¡serán bienvenidas las solicitudes de ex
 
 ## 📃 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles. 
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
